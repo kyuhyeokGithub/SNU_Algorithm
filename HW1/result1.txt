@@ -1,0 +1,2 @@
+randomized selection check : Correct
+deterministic selection check : Correct
