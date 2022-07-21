@@ -242,7 +242,7 @@ def check(n,A,i,random,deter,output_file_name):
 
     write(check_random,check_deter,output_file_name,"result") # txt file에 결과를 기록
 
-# main
+
 def main():
     input_list=glob.glob("input*.txt") # hw1 directory에서 'input*.txt' 형식의 파일들을 불러옴
     for input in input_list:
